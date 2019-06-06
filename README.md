@@ -26,7 +26,7 @@ Pytorch tutorial with jupyter notebook
 3. Training and Evaluating a Model
     - General training setup for cpu or cuda
     - Managing and loading predefined/custom datasets
-    - Experiencing the conventions of training and evaluating (actually train a CNN to accuracy 96%)
+    - Experiencing the conventions of training and evaluating (actually train a CNN on MNIST to accuracy 96%)
 4. Saving and Loading Model States
     - Using predefined models in ```torchvision.models```
     - Saving and loading model/optimizer parameters
