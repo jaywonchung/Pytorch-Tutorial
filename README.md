@@ -13,9 +13,9 @@ Pytorch tutorial with jupyter notebook
 1. Clone this repository to any folder.
 2. Open your favorite shell, and ```cd``` to that folder.
 3. Run ```jupyter notebook```
-4. Shift+Enter through each notebook.
+4. Shift+Enter through each notebook and cell.
 
-# Table of Content
+# Table of Contents
 
 1. Tensors and Dynamic Graphs
     - Basic Operations involving ```torch.Tensor```
