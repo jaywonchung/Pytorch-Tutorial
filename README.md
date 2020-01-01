@@ -4,9 +4,8 @@ Pytorch tutorial with jupyter notebook
 # Installing prerequisites
 
 - ```pip install jupyter```
-- ```pip install torch```
-- ```pip install torchvision```
 - ```pip install tqdm```
+- ```torch``` and ```torchvision```. Follow instructions in https://pytorch.org/get-started/locally/.
 
 # How to run this tutorial
 
